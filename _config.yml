@@ -2,4 +2,4 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Partie en Chine...
-description: Bienvenue !
+description: Bienvenue sur mon blog !
