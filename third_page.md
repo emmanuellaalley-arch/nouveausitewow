@@ -3,4 +3,5 @@
 * MORE JUSTICE
 * MORE FREEDOM
 * MORE EQUITY
-[Home](./index)
+
+# [Home](https://emmanuellaalley-arch.github.io/nouveausitewow/)
